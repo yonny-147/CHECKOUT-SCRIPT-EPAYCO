@@ -1,4 +1,4 @@
-const PUBLIC_KEY = 'TU_CLAVE_PUBLICA_AQUI'; // Reemplaza esto con la clave pública real
+const PUBLIC_KEY = '25bd67a9d26a7c74c410c7707db652fd'; // Reemplaza esto con la clave pública real
 
 var handler = ePayco.checkout.configure({
     key: `${PUBLIC_KEY}`,
